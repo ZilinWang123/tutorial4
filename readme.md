@@ -1,0 +1,1 @@
+-DgroupId=com -DartifactId=tut4 -Dpackage=tut 
