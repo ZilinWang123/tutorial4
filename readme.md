@@ -1,1 +1,3 @@
--DgroupId=com -DartifactId=tut4 -Dpackage=tut 
+
+![example workflow](https://github.com/ZilinWang123/tutorial4/actions/workflows/main.yml/badge.svg)
+
